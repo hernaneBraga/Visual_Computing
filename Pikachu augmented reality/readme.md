@@ -2,7 +2,7 @@
 
 The project goal is to detect all targets at the frame video and project a 3D Pikachu on each target. The image below shows an example.
 
-<center><img src="media/enunciado.png" alt="parameters" width="800"/></center>
+<center><img src="media/enunciado.PNG" alt="parameters" width="800"/></center>
 
 ---
 ## Project resolution steps
@@ -22,4 +22,4 @@ The step by step solution can be seen on the <a href="Rendering_3D_Pikachu_Compu
 The project output is available on the video <a href="output_video.avi">output_video.avi</a>.
 
 A frame of the final result is shown below.
-<br></br><center><img src="media/resultado_final.png" alt="parameters" width="800"/></center>
+<br></br><center><img src="media/resultado_final.PNG" alt="parameters" width="800"/></center>
